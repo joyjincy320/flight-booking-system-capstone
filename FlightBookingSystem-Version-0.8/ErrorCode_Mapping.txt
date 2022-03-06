@@ -1,0 +1,33 @@
+EC01 : Flight departed
+EC02 : This FlightId does not exist
+EC03 : Maximum seating capacity has been reached
+EC04 : seatId does not exist
+EC05 : Seat no longer available/ flight has departed
+EC06 : Flight has departed or cancelled
+EC07 : SeatId is incorrect
+EC08 : Seat must not be already occupied
+EC09 : Passenger must pay amount equal to price of seat
+EC10 : Error, cannot book seat, seat already exists but does not belong to airline
+EC11 : Seat not owned by passenger
+EC12 : Seat must be occupied
+EC13 : Sorry! Seat cancellations cannot be made within 2 hours of flight departure time
+EC14 : FlightStatus is not Cancelled
+EC15 : No seats found
+EC16 : This is not passenger's account
+EC17 : Passenger does not have refunds
+EC18 : Refund is already claimed
+EC19 : This is not the airline's account
+EC20 : Airline does not have any payments to claim
+EC21 : Payment is already done
+EC22 : This account cannot update Flight status
+EC23 : Invalid status for an enabled flight
+EC24 : Invalid status for an On Time flight
+EC25 : Invalid status for an ReadyForBoarding flight
+EC26 : Invalid status for a Departed flight
+EC27 : Invalid status for a Landed or Cancelled flight
+EC28 : Invalid status for a Delayed flight
+EC29 : Airlines should update the first Flight status only within 24 hours of flight departure time
+EC30 : You can claim refund only after 24 hours of flight departure time
+EC31 : Delayed flight is not departed yet. Delay Penalties will be calculated only after flight departure
+EC32 : Amount to be transferred is Zero
+EC33 : Undefined Penalty Percentage
